@@ -1,3 +1,34 @@
+## Chat Website
+
+Chat Website is a real-time messaging application built using React, Node.js, Express, MongoDB, and Socket.IO. It allows users to register, login, select avatars, and engage in real-time conversations with other users.
+
+## Table of Contents
+
+- [Demo](#demo)
+- [Features](#features)
+- [Getting Started](#getting-started)
+
+## Demo
+
+https://my-mern-chat.netlify.app/
+
+## Features
+
+- User Registration:
+  - Users can create accounts by providing their information.
+  - User authentication and authorization.
+
+- User Login:
+  - Registered users can log in securely.
+
+- Avatar Selection:
+  - Users can choose avatars or profile pictures from a predefined list.
+
+- Real-Time Messaging:
+  - Users can send and receive messages in real-time.
+  - Supports group and private messaging.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
